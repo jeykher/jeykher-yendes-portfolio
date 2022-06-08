@@ -1,0 +1,42 @@
+# Dockerignore file configuration
+
+## Docker files
+
+Dockerfile
+.dockerignore
+
+## Git files
+
+.git
+.gitignore
+.gitlab-ci.yml
+
+## Documentation files
+
+README.md
+CODE_OF_CONDUCT
+LICENSE
+
+## Directories
+
+node_modules
+.next
+.idea
+.vscode
+scripts
+
+## Node files
+
+package.lock.json
+yarn.lock.json
+
+## Logs files
+npm-debug.log
+
+## Build directories
+
+dist
+build
+
+## Config files
+.prettierrc
